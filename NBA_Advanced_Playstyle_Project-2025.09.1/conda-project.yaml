@@ -1,0 +1,11 @@
+name: NBA_Advanced_Playstyle_Project
+maintainers:
+- fcf4890f-4bc0-4284-9df7-eddc8e81104d
+platforms:
+- linux-64
+environments:
+  default:
+  - environment.yaml
+commands:
+  serve:
+    cmd: panel serve NBA_Advanced_Playstyle_Project.ipynb
